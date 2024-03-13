@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">  
 
-<!--
-**joaquinsolla/joaquinsolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub!
 
-Here are some ideas to get you started:
+Software engineer - MUEI Student at A Coruña University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working with **Java**, **Python**, **HTML**, **CSS**, **SQL**, **JavaScript**, **Flutter** and many more...  
+
+[Simplex](https://github.com/joaquinsolla/Simplex) | [Encasillado](https://github.com/joaquinsolla/Encasillado) | [elartedelaruina.com](https://github.com/manuelestevezmurado/manuelestevezmurado.github.io) | [buchabade.com](https://github.com/buchabade/buchabade.github.io)  
+
+# 
+
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joaquinsolla&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" width="50%"/></a>
+
+#
+
+*"THERE'S NOTHING MORE PRECIOUS THAN TIME"* - Virgil Abloh 
+
+</div>
