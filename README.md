@@ -10,7 +10,7 @@ Working with **Java**, **Python**, **HTML**, **CSS**, **SQL**, **JavaScript**, *
 
 # 
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joaquinsolla&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" width="60%"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joaquinsolla&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" width="55%"/></a>
 
 #
 
